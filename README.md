@@ -35,6 +35,7 @@ your repo access and to practice PR'ing with your team *before* you start
 coding!
 
 - Alex Thomas - Scrum Master: [GitHub](https://github.com/BagelTime) / [LinkedIn](https://linkedin.com/in/ajt11176)
+- Emily Carr  - Web Developer [GitHub] (https://github.com/codingEmily) / [LinkedIn] (https://www.linkedin.com/in/emily-c-2285a9277/).
 - Teammate name #2: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
 
    ...
